@@ -1,2 +1,2 @@
 # REST API Example using Express + TypeScript + Prisma
-# client-server
+# client-server-app
